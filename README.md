@@ -22,7 +22,7 @@ Name, profile, possbile roles
 * Denis Sedura: https://www.linkedin.com/in/d3n5a/ IOS/React Native/React
 * Sergey Zhukov: https://www.linkedin.com/in/sergeyzhukov89/  IOS/React Native/React
 * Dmitry Lesnoy: https://www.linkedin.com/in/dmitry-lesnoy-699bbabb/ React/React Native
-* Nick Goryachev: TBD Android/React/React Native
+* Nick Goryachev: https://www.linkedin.com/in/nick-goriachev-92b56964/ Android/React/React Native
 * Uladzislau Zankevich: https://www.linkedin.com/in/uladzislau-zankevich-142066157/ QA
 * Denis Zanakinsky: https://www.linkedin.com/in/deniszakalinsky/ Design/UI/UX/BA
 * Artsiom Kaval: https://www.linkedin.com/in/artyomkoval/ Backend/Python/Team Lead/Tech Lead
