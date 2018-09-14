@@ -49,7 +49,7 @@ Relocate - is person ready to relocate.
 | ![Nick Goryachev](img/Nickolay.png)<br>Nick Goryachev | [Go to profile](https://www.linkedin.com/in/nick-goriachev-92b56964/) | [Github](https://github.com/ngoryachev) | Android<br>React<br>React-Native | Fluent | ✅/✅ | St. Petersburg, Russia |
 | ![Ekaterina Kirvel](img/Kate.png)<br>Ekaterina Kirvel | [Linkedin](https://www.linkedin.com/in/ekaterina-kirvel-380756a1/) | N/A |Business Analyst<br>BA Team Lead | Fluent | ❌/❌ | Minsk, Belarus |
 | ![Uladzislau Zankevich](img/Uladzislau.png)<br>Uladzislau Zankevich | [Go to profile](https://www.linkedin.com/in/uladzislau-zankevich-142066157/) | N/A | QA | Beginner English | ✅/✅ | Zhitkovichi, Belarus |
-| ![Denis Zanakinsky](img/Denis_Z.png)<br>Denis Zanakinsky | [Go to profile](https://www.linkedin.com/in/deniszakalinsky/) | N/A | Design<br>UI<br>UX<br>BA | Fluent | ✅/✅ | Minsk, Belarus |
+| ![Denis Zakalinsky](img/Denis_Z.png)<br>Denis Zakalinsky | [Go to profile](https://www.linkedin.com/in/deniszakalinsky/) | N/A | Design<br>UI/UX<br>UX<br>PM/BA | Fluent | ✅/✅ | Minsk, Belarus |
 | ![Artsiom Kaval](img/Artsiom.png)<br>Artsiom Kaval | [Go to profile](https://www.linkedin.com/in/artyomkoval/) | [Github](https://github.com/lezeroq) | Backend<br>Python<br>Team Lead<br>Tech Lead | Fluent | ✅/✅ | Minsk, Belarus |
 | ![Kirill Pinchuk](img/Kirill.png)<br>Kirill Pinchuk | [Go to profile](https://www.linkedin.com/in/cybergrind/) | [Github](https://github.com/cybergrind/) | Backend<br>Python<br>React<br>Team Lead<br>Tech Lead<br>Solutions Architect | Fluent | ✅/✅ | Minsk, Belarus |
 
