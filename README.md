@@ -37,7 +37,7 @@ Name, profile, possbile roles, english level
 | Uladzislau Zankevich | [Linkedin](https://www.linkedin.com/in/uladzislau-zankevich-142066157/) | N/A | QA | Beginner | Zhitkovichi, Belarus |
 | Denis Zanakinsky | [Linkedin](https://www.linkedin.com/in/deniszakalinsky/) | N/A | Design/UI/UX/BA | Fluent | Minsk, Belarus |
 | Artsiom Kaval | [Linkedin](https://www.linkedin.com/in/artyomkoval/) | [Github](https://github.com/lezeroq) | Backend/Python/Team Lead/Tech Lead | Fluent | Minsk, Belarus |
-| Kirill Pinchuk |  [Linkedin](https://www.linkedin.com/in/cybergrind/) | [Github](https://github.com/cybergrind/) | Backend/Python/React/Team Lead/Tech Lead | Fluent | Minsk, Belarus |
+| Kirill Pinchuk |  [Linkedin](https://www.linkedin.com/in/cybergrind/) | [Github](https://github.com/cybergrind/) | Backend/Python/React/Team Lead/Tech Lead/Solutions Architect | Fluent | Minsk, Belarus |
 
 
 You may have question why so many `Team Leads` here, that's because we all know how good team should be built and what is important to organize work.
