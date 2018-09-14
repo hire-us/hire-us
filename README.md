@@ -21,7 +21,7 @@ What do we want:
 * If you're interested in some particular member - feel free to contact them directly. Everyone has no obligations and is available for hiring.
 
 
-## Linkedin profiles
+## Our team details
 
 Office - is person ready to work from office. If no - remote only
 
