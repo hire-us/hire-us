@@ -20,6 +20,10 @@ What do we want:
 * We can work as contractors
 * If you're interested in some particular member - feel free to contact them directly. Everyone has no obligations and is available for hiring.
 
+How to reach us:
+
+* Kirill Pinchuk cybergrind@gmail.com Telegram: @cybergrind
+* Anton Kuznetsov isnifer@gmail.com Telegram: @isnifer
 
 ## Our team details
 
@@ -35,7 +39,7 @@ Relocate - is person ready to relocate.
 | ![Denis Sedura](img/Denis_S.png)<br>Denis Sedura | [Go to profile](https://www.linkedin.com/in/d3n5a/) | [Github](https://github.com/densa) | iOS<br>React-Native<br>React | Fluent | ✅/❌ | Dnepr, Ukraine |
 | ![Sergey Zhukov](img/Sergey.png)<br>Sergey Zhukov | [Go to profile](https://www.linkedin.com/in/sergeyzhukov89/) | [Github](https://github.com/sergeyzhukov) | iOS<br>React-Native<br>React | Fluent | ❌/❌ | Samara, Russia |
 | ![Dmitry Lesnoy](img/Dmitry.png)<br>Dmitry Lesnoy | [Go to profile](https://www.linkedin.com/in/dmitry-lesnoy-699bbabb/) | [Github](https://github.com/dimok87) | React<br>React-Native | Fluent | ❌/❌ | Minsk, Belarus |
-| ![Nick Goryachev](img/Nickolay.png)<br>Nick Goryachev | [Go to profile](https://www.linkedin.com/in/nick-goriachev-92b56964/) | [Github](https://github.com/ngoryachev) | Android<br>React<br>React-Native | Fluent | ❌/❌ | St. Petersburg, Russia |
+| ![Nick Goryachev](img/Nickolay.png)<br>Nick Goryachev | [Go to profile](https://www.linkedin.com/in/nick-goriachev-92b56964/) | [Github](https://github.com/ngoryachev) | Android<br>React<br>React-Native | Fluent | ✅/✅ | St. Petersburg, Russia |
 | ![Ekaterina Kirvel](img/Kate.png)<br>Ekaterina Kirvel | [Linkedin](https://www.linkedin.com/in/ekaterina-kirvel-380756a1/) | N/A |Business Analyst<br>BA Team Lead | Fluent | ❌/❌ | Minsk, Belarus |
 | ![Uladzislau Zankevich](img/Uladzislau.png)<br>Uladzislau Zankevich | [Go to profile](https://www.linkedin.com/in/uladzislau-zankevich-142066157/) | N/A | QA | Beginner English | ✅/✅ | Zhitkovichi, Belarus |
 | ![Denis Zanakinsky](img/Denis_Z.png)<br>Denis Zanakinsky | [Go to profile](https://www.linkedin.com/in/deniszakalinsky/) | N/A | Design<br>UI<br>UX<br>BA | Fluent | ✅/✅ | Minsk, Belarus |
