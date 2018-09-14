@@ -30,3 +30,31 @@ Name, profile, possbile roles
 
 
 You may have question why so many `Team Leads` here, that's because we all know how good team should be built and what is important to organize work.
+
+
+# Our project setup
+
+We used to develop and support 7 applications for IOS and Android, admin site and backend with **weekly** sprints and releases. We're able to do this only because of processes and testing everything.
+
+## Mobile apps
+
+You can only think about it: 7 apps * 2 platforms * 2 active OS versions = at least 28 fully working applications were required to deliver on every week.
+
+RN isn't particularly mature or stable thing and we couldn't afford hordes of QA specialists. So we did all kind of tests (unit, integration, e2e) to make sure that everything is ok.
+
+All this was built on top of amusing GitlabCI with on-commit and scheduled builds. And uploading to Appstore was just a CI job.
+
+## Backend
+
+We did kanban here. Because kanban is excellent for tiny teams (2 ppl in our case). It is easy to manage priorities, no hustle about sprint's ends/planning, you always know where you have a bottleneck.
+
+We deployed a project on AWS in docker containers with docker-compose.
+
+We are in the absolute love-love relationship with pytest and did all testing for the backend with it.
+
+We had all kind of tests here, unit, integration, e2e, and, obviously, CI for everything. And because of testing, we had several fearless migrations (without breaking production):
+
+* bare metal => docker
+* mysql => postgresql
+* python2 => python3
+* and we always had most recent django and python versions!
