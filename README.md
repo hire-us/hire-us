@@ -12,7 +12,7 @@ Who we are:
 * We know how to do backend things with python and have 10+ years experience in it
 * We're doing monitoring. We have distributed tracing for microservices
 
-What is your benefits:
+What are your benefits:
 
 * You're not going to spend a lot of time and money to get on the rails. We've built the team, and we know how much it costs.
 * You still can hire desired person directly (for example via LinkedIn profile)
@@ -21,7 +21,7 @@ What is your benefits:
 What do we want:
 
 * Ideally we want to survive as a team. Distributed and remote
-* We're ready to join other company that might be interested in it
+* We're ready to join other companies that might be interested in it
 * We can work as contractors
 * If you're interested in some particular member - feel free to contact them directly. Everyone has no obligations and is available for hiring.
 
@@ -53,20 +53,20 @@ Relocate - is person ready to relocate.
 | ![Artsiom Kaval](img/Artsiom.png)<br>Artsiom Kaval | [Go to profile](https://www.linkedin.com/in/artyomkoval/) | [Github](https://github.com/lezeroq) | Backend<br>Python<br>Team Lead<br>Tech Lead | Fluent | ✅/✅ | Minsk, Belarus |
 | ![Kirill Pinchuk](img/Kirill.png)<br>Kirill Pinchuk | [Go to profile](https://www.linkedin.com/in/cybergrind/) | [Github](https://github.com/cybergrind/) | Backend<br>Python<br>React<br>Team Lead<br>Tech Lead<br>Solutions Architect | Fluent | ✅/✅ | Minsk, Belarus |
 
-You may have question why so many `Team Leads` here, that's because we all know how good team should be built and what is important to organize work.
+You may question why we have so many `Team Leads` here, that's because we all know how a good team should be built and what is important to organize work.
 
 ### Language situation
 
 We intentionally built a team with all Russian speakers to eliminate communication barriers.
 
-But most of the team have daily experience in writing and verbal communications in English. All our documents in English, code comments, apparently, too.
+But most of the team has daily experience in writing and verbal communications in English. All our documents in English, code comments, apparently, too.
 
 
 # About processes
 
 ## What you can expect from us
 
-We have a full development cycle, only business requirements and acceptance criteria needed from you.
+We have a full development cycle, only business requirements and acceptance criteria are required from you.
 
 1. You have some business requirement
 2. Our BA will start gathering requirements and assemble everything in the document
@@ -79,15 +79,15 @@ We have a full development cycle, only business requirements and acceptance crit
 
 After that we run retrospective and make changes in processes if required.
 
-When we decide to change something, we can implement changes. About it subsection below.
+When we decide to change something, we can implement changes. Read more about it below.
 
 ## Automation
 
 We love to automate things. Especially management and communications routine!
 
-We're quite good at tracking time. Most of team worked via upwork and we have custom project to collect everything together via jira/gitlab/upwork APIs. So you can get details for each task, each member time report or daily team report. Everything you might need to understand current state.
+We're quite good at tracking time. Most of our team worked via upwork and we have a custom project to collect everything together via jira/gitlab/upwork APIs. So you can get details for each task, each member time report or daily team report. Everything you might need to understand current state.
 
-Also we have review cycle that is fully automated and bot-driven, so there is no lag in code review.
+Also we have a review cycle that is fully automated and bot-driven, so there is no lag in code review.
 
 
 # Our project setup
@@ -131,7 +131,7 @@ Unit, integration and e2e (selenium) tests.
 
 ## Backend
 
-We did kanban here. Because kanban is excellent for tiny teams (2 ppl in our case). It is easy to manage priorities, no hustle about sprint's ends/planning, you always know where you have a bottleneck.
+We work in kanban here. Because kanban is excellent for tiny teams (2 ppl in our case). It is easy to manage priorities, no hustle about sprint's ends/planning, you always know where you have a bottleneck.
 
 We deployed a project on AWS in docker containers with docker-compose.
 
