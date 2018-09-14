@@ -12,6 +12,11 @@ Who we are:
 * We know how to do backend things with python and have 10+ years experience in it
 * We're doing monitoring. We have distributed tracing for microservices
 
+What is your benefits:
+
+* You're not going to spend a lot of time and money to get on the rails. We've built the team, and we know how much it costs.
+* You still can hire desired person directly (for example via LinkedIn profile)
+
 
 What do we want:
 
