@@ -40,7 +40,7 @@ Relocate - is person ready to relocate.
 | ![Uladzislau Zankevich](img/Uladzislau.png)<br>Uladzislau Zankevich | [Go to profile](https://www.linkedin.com/in/uladzislau-zankevich-142066157/) | N/A | QA | Beginner English | ✅/✅ | Zhitkovichi, Belarus |
 | ![Denis Zanakinsky](img/Denis_Z.png)<br>Denis Zanakinsky | [Go to profile](https://www.linkedin.com/in/deniszakalinsky/) | N/A | Design<br>UI<br>UX<br>BA | Fluent | ✅/✅ | Minsk, Belarus |
 | ![Artsiom Kaval](img/Artsiom.png)<br>Artsiom Kaval | [Go to profile](https://www.linkedin.com/in/artyomkoval/) | [Github](https://github.com/lezeroq) | Backend<br>Python<br>Team Lead<br>Tech Lead | Fluent | ✅/✅ | Minsk, Belarus |
-| ![Kirill Pinchuk](img/Kirill.png)<br>Kirill Pinchuk | [Go to profile](https://www.linkedin.com/in/cybergrind/) | [Github](https://github.com/cybergrind/) | Backend<br>Python<br>React<br>Team Lead<br>Tech Lead | Fluent | ✅/✅ | Minsk, Belarus |
+| ![Kirill Pinchuk](img/Kirill.png)<br>Kirill Pinchuk | [Go to profile](https://www.linkedin.com/in/cybergrind/) | [Github](https://github.com/cybergrind/) | Backend<br>Python<br>React<br>Team Lead<br>Tech Lead<br>Solutions Architect | Fluent | ✅/✅ | Minsk, Belarus |
 
 You may have question why so many `Team Leads` here, that's because we all know how good team should be built and what is important to organize work.
 
