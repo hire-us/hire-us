@@ -104,6 +104,26 @@ RN isn't particularly mature or stable library and we couldn't afford hordes of 
 
 All this was built on top of amusing GitlabCI with on-commit and scheduled builds. And uploading to Appstore was just a CI job.
 
+
+## Web
+
+Everything that you might expect from modern React stack: React, react-router, react-redux, normalizr and etc.
+
+Unit, integration and e2e (selenium) tests.
+
+### Notable on frontend
+
+[Eslint plugin](https://github.com/tipsi/eslint-plugin-tipsi) - don't waste time on recurrent reviewer comments, use linter
+
+[React/RN router](https://github.com/tipsi/tipsi-router) - share your code not only between mobile platforms but web aswell
+
+[Flavors](https://github.com/tipsi/babel-plugin-tipsi-flavors) - don't limit yourself only to `.ios.js`/`.android.js` suffixes, create your own flavors. This is how we're able to maintain a lot of custom builds.
+
+[TravisCI for mobile platforms](https://github.com/tipsi/tipsi-travis-scripts) - let your team write build scripts in familiar language. Make you life easier with free TravisCI e2e tests on mobile platforms.
+
+[Appium helper](https://github.com/tipsi/tipsi-appium-helper) - when you need to customize your mobile e2e scenarios in some easy and reproducible way.
+
+
 ## Backend
 
 We did kanban here. Because kanban is excellent for tiny teams (2 ppl in our case). It is easy to manage priorities, no hustle about sprint's ends/planning, you always know where you have a bottleneck.
@@ -118,6 +138,23 @@ We had all kind of tests here, unit, integration, e2e, and, obviously, CI for ev
 * mysql => postgresql
 * python2 => python3
 * and we always had most recent django and python versions!
+
+All services was either: django/drf or asyncio/sanic.
+
+### Notable on backend
+We have [homegrown solution](https://github.com/Nepherhotep/django-rest-framework-dyn-serializer) to make lazy API's with DRF. And we're aware of GraphQL and have desire to move in this direction.
+
+
+[Fan](https://github.com/tipsi/fan) because we want from microservices swappable protocols, full tracing support, full versioning support and no solutions can give us it now. Additionaly you can easy connect any existing API without modification by having an additional service near and yaml config.
+
+
+[pytest](https://github.com/tipsi/pytest-tipsi-testing) and [pytest + django](https://github.com/tipsi/pytest-tipsi-django) - if you want to have full control on what fixtures you have during tests or you want to have transactions support for django not only in function scope.
+
+[aiozk](https://github.com/tipsi/aiozk) - there were no asyncio+zookeeper bindings, we've changed this.
+
+[tipsi_tools](https://github.com/tipsi/tipsi_tools) - ours toolbelt. Check it; You might always want to have `tipsi_tools.python.rel_path` or `tipsi_tools.drf.use_form
+` functions!
+
 
 
 ## Infrastructure
