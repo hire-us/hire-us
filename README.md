@@ -24,6 +24,7 @@ Name, profile, possbile roles
 * Dmitry Lesnoy: https://www.linkedin.com/in/dmitry-lesnoy-699bbabb/ React/React Native
 * Nick Goryachev: TBD Android/React/React Native
 * Uladzislau Zankevich: https://www.linkedin.com/in/uladzislau-zankevich-142066157/ QA
+* Denis Zanakinsky: https://www.linkedin.com/in/deniszakalinsky/ Design/UI/UX/BA
 * Artsiom Kaval: https://www.linkedin.com/in/artyomkoval/ Backend/Python/Team Lead/Tech Lead
 * Kirill Pinchuk: https://www.linkedin.com/in/cybergrind/ Backend/Python/React/Team Lead/Tech Lead
 
