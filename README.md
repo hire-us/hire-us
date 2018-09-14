@@ -25,6 +25,8 @@ How to reach us:
 * Kirill Pinchuk cybergrind@gmail.com Telegram: @cybergrind
 * Anton Kuznetsov isnifer@gmail.com Telegram: @isnifer
 
+Or via linkedin messages/invites
+
 ## Our team details
 
 Office - is person ready to work from office. If no - remote only
