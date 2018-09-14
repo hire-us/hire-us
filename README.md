@@ -87,9 +87,9 @@ We used to develop and support 7 applications for IOS and Android, admin site an
 
 Links may die in future but still alive:
 
-[Appstore](https://itunes.apple.com/us/app/calvert-woodley/id1325616215mt=8)
+[Appstore](https://itunes.apple.com/us/app/calvert-woodley/id1325616215)
 
-[Google Play](https://play.google.com/store/apps/detailsid=com.tipsi.cw&hl=en)
+[Google Play](https://play.google.com/store/apps/details?id=com.tipsi.cw)
 
 
 Just think about it: 7 apps * 2 platforms * 2 active OS versions = at least 14 fully working applications were required to deliver on every week and 28 to test.
