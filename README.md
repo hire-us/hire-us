@@ -45,13 +45,15 @@ We used to develop and support 7 applications for IOS and Android, admin site an
 ## Mobile apps
 
 Links may die in future but still alive:
+
 [Appstore](https://itunes.apple.com/us/app/calvert-woodley/id1325616215mt=8)
+
 [Google Play](https://play.google.com/store/apps/detailsid=com.tipsi.cw&hl=en)
 
 
-You can only think about it: 7 apps * 2 platforms * 2 active OS versions = at least 28 fully working applications were required to deliver on every week.
+Just think about it: 7 apps * 2 platforms * 2 active OS versions = at least 14 fully working applications were required to deliver on every week and 28 to test.
 
-RN isn't particularly mature or stable thing and we couldn't afford hordes of QA specialists. So we did all kind of tests (unit, integration, e2e) to make sure that everything is ok.
+RN isn't particularly mature or stable library and we couldn't afford hordes of QA specialists. So we did all kind of tests (unit, integration, e2e) to make sure that everything is ok.
 
 All this was built on top of amusing GitlabCI with on-commit and scheduled builds. And uploading to Appstore was just a CI job.
 
