@@ -15,21 +15,27 @@ Who we are:
 
 ## Linkedin profiles
 
-Name, profile, possbile roles
+Name, profile, possbile roles, english level
 
-* Igor Kozlovsky: https://www.linkedin.com/in/igor-kozlovsky-9017a1b3/ React/React Native/Team Lead/Tech Lead
-* Anton Kuznetsov: https://www.linkedin.com/in/isnifer/ React/React Native/Tech Lead/Team Lead
-* Denis Sedura: https://www.linkedin.com/in/d3n5a/ IOS/React Native/React
-* Sergey Zhukov: https://www.linkedin.com/in/sergeyzhukov89/  IOS/React Native/React
-* Dmitry Lesnoy: https://www.linkedin.com/in/dmitry-lesnoy-699bbabb/ React/React Native
-* Nick Goryachev: https://www.linkedin.com/in/nick-goriachev-92b56964/ Android/React/React Native
-* Uladzislau Zankevich: https://www.linkedin.com/in/uladzislau-zankevich-142066157/ QA
-* Denis Zanakinsky: https://www.linkedin.com/in/deniszakalinsky/ Design/UI/UX/BA
-* Artsiom Kaval: https://www.linkedin.com/in/artyomkoval/ Backend/Python/Team Lead/Tech Lead
-* Kirill Pinchuk: https://www.linkedin.com/in/cybergrind/ Backend/Python/React/Team Lead/Tech Lead
+* Igor Kozlovsky: https://www.linkedin.com/in/igor-kozlovsky-9017a1b3/ React/React Native/Team Lead/Tech Lead, Fluent English
+* Anton Kuznetsov: https://www.linkedin.com/in/isnifer/ React/React Native/Tech Lead/Team Lead, Fluent English
+* Denis Sedura: https://www.linkedin.com/in/d3n5a/ IOS/React Native/React, Fluent English
+* Sergey Zhukov: https://www.linkedin.com/in/sergeyzhukov89/  IOS/React Native/React, Fluent English
+* Dmitry Lesnoy: https://www.linkedin.com/in/dmitry-lesnoy-699bbabb/ React/React Native, Fluent English
+* Nick Goryachev: https://www.linkedin.com/in/nick-goriachev-92b56964/ Android/React/React Native, Fluent English
+* Uladzislau Zankevich: https://www.linkedin.com/in/uladzislau-zankevich-142066157/ QA, Beginner English
+* Denis Zanakinsky: https://www.linkedin.com/in/deniszakalinsky/ Design/UI/UX/BA, Fluent English
+* Artsiom Kaval: https://www.linkedin.com/in/artyomkoval/ Backend/Python/Team Lead/Tech Lead, Fluent English
+* Kirill Pinchuk: https://www.linkedin.com/in/cybergrind/ Backend/Python/React/Team Lead/Tech Lead, Fluent English
 
 
 You may have question why so many `Team Leads` here, that's because we all know how good team should be built and what is important to organize work.
+
+### Language situation
+
+We intentionally built a team with all Russian speakers to eliminate communication barriers.
+
+But most of the team have daily experience in writing and verbal communications in English. All our documents in English, code comments, apparently, too.
 
 
 # Our project setup
@@ -63,3 +69,14 @@ We had all kind of tests here, unit, integration, e2e, and, obviously, CI for ev
 * mysql => postgresql
 * python2 => python3
 * and we always had most recent django and python versions!
+
+
+## Infrastructure
+
+Everything was deployed to AWS. Nothing special here: ec2, rds (postgresql), s3. Host setup with ansible.
+
+Some compute intensive things was hosted on hetzner: ELK stack, OSX VM's, Android emulators. We were able to keep our bills sane due to this segregation.
+
+We know how to run e2e tests on OSX in KVM. It gives us the ability to run tests for Android and IOS on the same machine.
+
+GitlabCI was our main CI server. But we have experience with TravisCI for public repos (including mobile e2e tests). And almost every task that can be automated was automated: running test, running integration tests, building documentation, automated deployments.
