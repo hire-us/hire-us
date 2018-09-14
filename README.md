@@ -1,10 +1,10 @@
 # We're ready for new opportunities.
 
-Our project is going to be closed but we well-established team with great processes and we're ready to work on together on new projects.
+Our project is going to be closed but we are well-established team with great processes and we're ready to work on all together on new projects.
 
 Who we are:
 
-* Fully remote team (6 frontend, 2 backend, 1 designer, 1 QA)
+* Fully remote team (6 frontend, 2 backend, 1 designer, 1 QA, 1 BA)
 * We're doing React and React Native better than most teams
 * We're not only doing React Native, but we have people with appropriate mobile backgrounds
 * We have fully automated CI/CD pipelines
@@ -13,20 +13,31 @@ Who we are:
 * We're doing monitoring. We have distributed tracing for microservices
 
 
+What do we want:
+
+* Ideally we want to survive as a team. Distributed and remote
+* We're ready to join other company that might be interested in it
+* We can work as contractors
+* If you're interested in some particular member - feel free to contact them directly. Everyone has no obligations and is available for hiring.
+
+
 ## Linkedin profiles
 
 Name, profile, possbile roles, english level
 
-* Igor Kozlovsky: https://www.linkedin.com/in/igor-kozlovsky-9017a1b3/ React/React Native/Team Lead/Tech Lead, Fluent English
-* Anton Kuznetsov: https://www.linkedin.com/in/isnifer/ React/React Native/Tech Lead/Team Lead, Fluent English
-* Denis Sedura: https://www.linkedin.com/in/d3n5a/ IOS/React Native/React, Fluent English
-* Sergey Zhukov: https://www.linkedin.com/in/sergeyzhukov89/  IOS/React Native/React, Fluent English
-* Dmitry Lesnoy: https://www.linkedin.com/in/dmitry-lesnoy-699bbabb/ React/React Native, Fluent English
-* Nick Goryachev: https://www.linkedin.com/in/nick-goriachev-92b56964/ Android/React/React Native, Fluent English
-* Uladzislau Zankevich: https://www.linkedin.com/in/uladzislau-zankevich-142066157/ QA, Beginner English
-* Denis Zanakinsky: https://www.linkedin.com/in/deniszakalinsky/ Design/UI/UX/BA, Fluent English
-* Artsiom Kaval: https://www.linkedin.com/in/artyomkoval/ Backend/Python/Team Lead/Tech Lead, Fluent English
-* Kirill Pinchuk: https://www.linkedin.com/in/cybergrind/ Backend/Python/React/Team Lead/Tech Lead, Fluent English
+| Name | Linkedin | Github | Possible Roles | English level | Home Location |
+| --- | --- | --- | --- | --- | --- |
+| Igor Kozlovsky | [Linkedin](https://www.linkedin.com/in/igor-kozlovsky-9017a1b3/) | [Github](https://github.com/igor-lemon) | React/React Native/Team Lead/Tech Lead | Fluent | Minsk, Belarus |
+| Anton Kuznetsov | [Linkedin](https://www.linkedin.com/in/isnifer/) | [Github](https://github.com/isnifer) | React/React Native/Tech Lead/Team Lead | Fluent | Moscow, Russia |
+| Denis Sedura | [Linkedin](https://www.linkedin.com/in/d3n5a/) | [Github](https://github.com/densa) | IOS/React Native/React | Fluent | Dnepr, Ukraine |
+| Sergey Zhukov | [Linkedin](https://www.linkedin.com/in/sergeyzhukov89/) | [Github](https://github.com/sergeyzhukov) | IOS/React Native/React | Fluent | Samara, Russia |
+| Dmitry Lesnoy | [Linkedin](https://www.linkedin.com/in/dmitry-lesnoy-699bbabb/) | [Github](https://github.com/dimok87) | React/React Native | Fluent | Minsk, Belarus |
+| Nick Goryachev | [Linkedin](https://www.linkedin.com/in/nick-goriachev-92b56964/) | [Github](https://github.com/ngoryachev) | Android/React/React Native | Fluent | Saint Petersburg, Russia |
+| Ekaterina Kirvel | [Linkedin](https://www.linkedin.com/in/ekaterina-kirvel-380756a1/) | N/A |Business Analyst/BA Team Lead | Fluent | Minsk, Belarus |
+| Uladzislau Zankevich | [Linkedin](https://www.linkedin.com/in/uladzislau-zankevich-142066157/) | N/A | QA | Beginner | Zhitkovichi, Belarus |
+| Denis Zanakinsky | [Linkedin](https://www.linkedin.com/in/deniszakalinsky/) | N/A | Design/UI/UX/BA | Fluent | Minsk, Belarus |
+| Artsiom Kaval | [Linkedin](https://www.linkedin.com/in/artyomkoval/) | [Github](https://github.com/lezeroq) | Backend/Python/Team Lead/Tech Lead | Fluent | Minsk, Belarus |
+| Kirill Pinchuk |  [Linkedin](https://www.linkedin.com/in/cybergrind/) | [Github](https://github.com/cybergrind/) | Backend/Python/React/Team Lead/Tech Lead | Fluent | Minsk, Belarus |
 
 
 You may have question why so many `Team Leads` here, that's because we all know how good team should be built and what is important to organize work.
@@ -36,6 +47,34 @@ You may have question why so many `Team Leads` here, that's because we all know 
 We intentionally built a team with all Russian speakers to eliminate communication barriers.
 
 But most of the team have daily experience in writing and verbal communications in English. All our documents in English, code comments, apparently, too.
+
+
+# About processes
+
+## What you can expect from us
+
+We have a full development cycle, only business requirements and acceptance criteria needed from you.
+
+1. You have some business requirement
+2. Our BA will start gathering requirements and assemble everything in the document
+3. A designer will prepare and provide all visual artifacts
+4. You will approve document/media if you want
+5. Backend team will develop and fill all API endpoints into the document
+6. Frontend team will add required components and connect it to the backend
+7. QA will test and prepare release version
+8. Changes will be deployed to test and then production environments
+
+After that we run retrospective and make changes in processes if required.
+
+When we decide to change something, we can implement changes. About it subsection below.
+
+## Automation
+
+We love to automate things. Especially management and communications routine!
+
+We're quite good at tracking time. Most of team worked via upwork and we have custom project to collect everything together via jira/gitlab/upwork APIs. So you can get details for each task, each member time report or daily team report. Everything you might need to understand current state.
+
+Also we have review cycle that is fully automated and bot-driven, so there is no lag in code review.
 
 
 # Our project setup
@@ -82,3 +121,5 @@ Some compute intensive things was hosted on hetzner: ELK stack, OSX VM's, Androi
 We know how to run e2e tests on OSX in KVM. It gives us the ability to run tests for Android and IOS on the same machine.
 
 GitlabCI was our main CI server. But we have experience with TravisCI for public repos (including mobile e2e tests). And almost every task that can be automated was automated: running test, running integration tests, building documentation, automated deployments.
+
+For example if you need an single page application, you will get not only designs and page itself. But full pipeline: commit -> docker container -> tests -> (optionally) deployment to production.
