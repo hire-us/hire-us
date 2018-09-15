@@ -11,7 +11,7 @@ Who we are:
 * We're doing React and React Native better than most teams
 * We're not only doing React Native, but we have people with appropriate mobile backgrounds
 * We have fully automated CI/CD pipelines
-* We know how to write e2e tests that will run on all platforms (web, ios, android)
+* We know how to write e2e (ent-to-end) tests that will run on all platforms (web, ios, android)
 * We know how to do backend things with python and have 10+ years experience in it
 * We're doing monitoring. We have distributed tracing for microservices
 * You can see our open-sourced code here: https://github.com/tipsi
@@ -119,7 +119,7 @@ Links may die in future but still alive:
 
 Think about it: 7 apps * 2 platforms * 2 active OS versions = 28 fully working applications were tested and delivered every week.
 
-React Native (RN) isn't particularly mature or stable library and we couldn't afford hordes of QA specialists. So we did all kind of tests (unit, integration, e2e) to make sure that everything is ok.
+React Native (RN) isn't particularly mature or stable library and we couldn't afford hordes of QA specialists. So we did all kind of automated tests (unit, integration, e2e) to make sure that everything is ok.
 
 All this was built on top of amazing GitlabCI with on-commit and scheduled builds. And uploading to Appstore was just a CI job.
 
