@@ -4,7 +4,7 @@ Our project is going to be closed but we are well-established team with great pr
 
 Who we are:
 
-* Team behind https://github.com/tipsi
+* People behind https://github.com/tipsi
 * Fully remote team (6 frontend, 2 backend, 1 designer, 1 QA, 1 BA)
 * We're doing React and React Native better than most teams
 * We're not only doing React Native, but we have people with appropriate mobile backgrounds
