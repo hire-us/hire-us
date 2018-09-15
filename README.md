@@ -104,11 +104,11 @@ Links may die in future but still alive:
 [Google Play](https://play.google.com/store/apps/details?id=com.tipsi.cw)
 
 
-Just think about it: 7 apps * 2 platforms * 2 active OS versions = at least 14 fully working applications were required to deliver on every week and 28 to test.
+Just think about it: 7 apps * 2 platforms * 2 active OS versions = at least 14 fully working applications were required to deliver every week and 28 to test.
 
 RN isn't particularly mature or stable library and we couldn't afford hordes of QA specialists. So we did all kind of tests (unit, integration, e2e) to make sure that everything is ok.
 
-All this was built on top of amusing GitlabCI with on-commit and scheduled builds. And uploading to Appstore was just a CI job.
+All this was built on top of amazing GitlabCI with on-commit and scheduled builds. And uploading to Appstore was just a CI job.
 
 
 ## Web
