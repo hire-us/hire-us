@@ -140,7 +140,7 @@ Tip: braintree has no such library right now so you can create it and earn fame.
 
 [React/RN router](https://github.com/tipsi/tipsi-router) - share your code not only between mobile platforms but web as well.
 
-[Flavors](https://github.com/tipsi/babel-plugin-tipsi-flavors) - don't limit yourself only to `.ios.js`/`.android.js` suffixes, create your own flavors. This is how we're able to maintain a lot of custom builds.
+[Flavors](https://github.com/tipsi/babel-plugin-tipsi-flavors) - don't limit yourself only to `.ios.js`/`.android.js` suffixes, create your own flavors. We needed a lot of different customizations for different clients and to have simple and clean codebase. Flavors give us ability to reuse our code in simple and powerful ways, easily enable and disable features during build without any code changes.
 
 [TravisCI for mobile platforms](https://github.com/tipsi/tipsi-travis-scripts) - let your team write build scripts in familiar language. Make you life easier with free TravisCI e2e tests on mobile platforms.
 
@@ -162,13 +162,13 @@ We had all kind of tests here, unit, integration, e2e, and, obviously, CI for ev
 * python2 => python3
 * and we always had most recent django and python versions!
 
-All services was either: django/drf or asyncio/sanic.
+All services were either: django/drf or asyncio/sanic.
 
 ### Notable on backend
-We have [homegrown solution](https://github.com/Nepherhotep/django-rest-framework-dyn-serializer) to make lazy API's with DRF. And we're aware of GraphQL and have desire to move in this direction.
+We have [homegrown solution](https://github.com/Nepherhotep/django-rest-framework-dyn-serializer) to make lazy API's with django-rest-framework. We're aware of GraphQL and want to move in this direction.
 
 
-[Fan](https://github.com/tipsi/fan) because we want from microservices swappable protocols, full tracing support, full versioning support and no solutions can give us it now. Additionaly you can easy connect any existing API without modification by having an additional service near and yaml config.
+[Fan](https://github.com/tipsi/fan) - because we want microservices with swappable protocols, full tracing support, full versioning support and no solutions can give us it now. Additionaly you can easily connect any existing API without modification by having near an additional service and yaml config.
 
 
 [pytest](https://github.com/tipsi/pytest-tipsi-testing) and [pytest + django](https://github.com/tipsi/pytest-tipsi-django) - if you want to have full control on what fixtures you have during tests or you want to have transactions support for django not only in function scope.
@@ -188,6 +188,4 @@ Some compute intensive things was hosted on hetzner: ELK stack, OSX VM's, Androi
 
 We know how to run e2e tests on OSX in KVM. It gives us the ability to run tests for Android and IOS on the same machine.
 
-GitlabCI was our main CI server. But we have experience with TravisCI for public repos (including mobile e2e tests). And almost every task that can be automated was automated: running test, running integration tests, building documentation, automated deployments.
-
-For example if you need a single page application, you will get not only designs and page itself but the full pipeline: commit -> docker container -> tests -> deployment to production.
+GitlabCI was our main CI server. But we have experience with TravisCI for public repos (including mobile e2e tests). And almost every task that can be automated was automated: running test, running integration tests, building documentation, automated deployments. For example if you need a single page application, you will get not only designs and page itself but the full pipeline: commit -> docker container -> tests -> deployment to production.
