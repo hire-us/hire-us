@@ -4,6 +4,7 @@ Our project is going to be closed but we are well-established team with great pr
 
 Who we are:
 
+* Team behind https://github.com/tipsi
 * Fully remote team (6 frontend, 2 backend, 1 designer, 1 QA, 1 BA)
 * We're doing React and React Native better than most teams
 * We're not only doing React Native, but we have people with appropriate mobile backgrounds
@@ -117,6 +118,9 @@ Everything that you might expect from modern React stack: React, react-router, r
 Unit, integration and e2e (selenium) tests.
 
 ### Notable on frontend
+
+[tipsi-stripe](https://github.com/ex-tipsi/hire-us) We always were sure that good RN project should support both mobile platforms at the same time. We always were sure that payment processing library should be well-tested. There was no such project to fulfill our requirements with Stripe + RN. We've made it. 
+Tip: braintree has no such library right now so you can create it and earn fame.
 
 [Eslint plugin](https://github.com/tipsi/eslint-plugin-tipsi) - don't waste time on recurrent reviewer comments, use linter
 
