@@ -2,9 +2,11 @@
 
 Our project is going to be closed but we are well-established team with great processes and we're ready to work on all together on new projects.
 
+You might be interested if you're looking for a team to build the fully fledged product: web, mobile applications for all platforms, and backend.
+
+
 Who we are:
 
-* People behind https://github.com/tipsi
 * Fully remote team (6 frontend, 2 backend, 1 designer, 1 QA, 1 BA)
 * We're doing React and React Native better than most teams
 * We're not only doing React Native, but we have people with appropriate mobile backgrounds
@@ -12,6 +14,8 @@ Who we are:
 * We know how to write e2e tests that will run on all platforms (web, ios, android)
 * We know how to do backend things with python and have 10+ years experience in it
 * We're doing monitoring. We have distributed tracing for microservices
+* You can see our open-sourced code here: https://github.com/tipsi
+
 
 What are your benefits:
 
@@ -25,6 +29,15 @@ What do we want:
 * We're ready to join other companies that might be interested in it
 * We can work as contractors
 * If you're interested in some particular member - feel free to contact them directly. Everyone has no obligations and is available for hiring.
+
+
+
+Our stack:
+
+* Web: reactjs, react-router, react-redux
+* Mobile: react native, but we can to native apps too
+* Backend: python, django, django-rest-framework, asyncio, sanic, postgresql/mysql
+* Infrastructure: AWS, docker containers, ansible, prometheus, ELK, zipkin
 
 How to reach us:
 
@@ -60,7 +73,7 @@ You may question why we have so many `Team Leads` here, that's because we all kn
 
 We intentionally built a team with all Russian speakers to eliminate communication barriers.
 
-But most of the team has daily experience in writing and verbal communications in English. All our documents in English, code comments, apparently, too.
+But most of the team has daily experience in writing and verbal communications in English. All our documents are in English, code comments, apparently, too.
 
 
 # About processes
@@ -95,7 +108,7 @@ Also we have a review cycle that is fully automated and bot-driven, so there is 
 
 We used to develop and support 7 applications for IOS and Android, admin site and backend with **weekly** sprints and releases. We're able to do this only because of processes and testing everything.
 
-## Mobile apps
+## Mobile apps / React Native
 
 Links may die in future but still alive:
 
@@ -106,7 +119,7 @@ Links may die in future but still alive:
 
 Just think about it: 7 apps * 2 platforms * 2 active OS versions = at least 14 fully working applications were required to deliver every week and 28 to test.
 
-RN isn't particularly mature or stable library and we couldn't afford hordes of QA specialists. So we did all kind of tests (unit, integration, e2e) to make sure that everything is ok.
+React Native (RN) isn't particularly mature or stable library and we couldn't afford hordes of QA specialists. So we did all kind of tests (unit, integration, e2e) to make sure that everything is ok.
 
 All this was built on top of amazing GitlabCI with on-commit and scheduled builds. And uploading to Appstore was just a CI job.
 
@@ -119,7 +132,7 @@ Unit, integration and e2e (selenium) tests.
 
 ### Notable on frontend
 
-[tipsi-stripe](https://github.com/ex-tipsi/hire-us) We always were sure that good RN project should support both mobile platforms at the same time. We always were sure that payment processing library should be well-tested. There was no such project to fulfill our requirements with Stripe + RN. We've made it. 
+[tipsi-stripe](https://github.com/ex-tipsi/hire-us) We always were sure that good React Native project should support both mobile platforms at the same time. We always were sure that payment processing library should be well-tested. There was no such project to fulfill our requirements with Stripe + RN. We've made it. 
 Tip: braintree has no such library right now so you can create it and earn fame.
 
 [Eslint plugin](https://github.com/tipsi/eslint-plugin-tipsi) - don't waste time on recurrent reviewer comments, use linter
@@ -176,4 +189,4 @@ We know how to run e2e tests on OSX in KVM. It gives us the ability to run tests
 
 GitlabCI was our main CI server. But we have experience with TravisCI for public repos (including mobile e2e tests). And almost every task that can be automated was automated: running test, running integration tests, building documentation, automated deployments.
 
-For example if you need an single page application, you will get not only designs and page itself. But full pipeline: commit -> docker container -> tests -> (optionally) deployment to production.
+For example if you need a single page application, you will get not only designs and page itself but the full pipeline: commit -> docker container -> tests -> deployment to production.
