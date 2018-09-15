@@ -1,6 +1,6 @@
 # We're ready for new opportunities.
 
-Our project is going to be closed but we are well-established team with great processes and we're ready to work on all together on new projects.
+Our project is going to be closed but we are a well-established team with great processes and we're ready to work on all together on new projects.
 
 You might be interested if you're looking for a team to build a fully fledged product: web, mobile applications for all platforms, and backend.
 
@@ -8,19 +8,19 @@ You might be interested if you're looking for a team to build a fully fledged pr
 Who we are:
 
 * Fully remote team (6 frontend, 2 backend, 1 designer, 1 QA, 1 BA)
-* We're doing React and React Native better than most teams
-* We're not only doing React Native, but we have people with appropriate mobile backgrounds
+* We do React and React Native better than most teams
+* We don't only do React Native, but we also have people with appropriate mobile backgrounds
 * We have fully automated CI/CD pipelines
 * We know how to write e2e (ent-to-end) tests that will run on all platforms (web, ios, android)
 * We know how to do backend things with python and have 10+ years experience in it
-* We're doing monitoring. We have distributed tracing for microservices
+* We do monitoring. We have distributed tracing for microservices
 * You can see our open-sourced code here: https://github.com/tipsi
 
 
 What are your benefits:
 
 * You're not going to spend a lot of time and money to get on the rails. We've built the team, and we know how much it costs.
-* You still can hire desired person directly (for example via LinkedIn profile)
+* You still can hire a desired person directly (for example, via a LinkedIn profile)
 
 
 What do we want:
@@ -35,7 +35,7 @@ What do we want:
 Our stack:
 
 * Web: reactjs, react-router, react-redux
-* Mobile: react native, but we can to native apps too
+* Mobile: react native, but we can do native apps, too
 * Backend: python, django, django-rest-framework, asyncio, sanic, postgresql/mysql
 * Infrastructure: AWS, docker containers, ansible, prometheus, ELK, zipkin
 
@@ -48,9 +48,9 @@ Or via linkedin messages/invites
 
 ## Our team details
 
-Office - is person ready to work from office. If no - remote only
+Office - if the person is ready to work from office. If no - remote only
 
-Relocate - is person ready to relocate.
+Relocate - if the person is ready to relocate.
 
 
 | Available | Name | Github | Possible Roles | English level | Office / Relocate | Home Location |
@@ -71,9 +71,9 @@ You may question why we have so many `Team Leads` here, that's because we all kn
 
 ### Language situation
 
-We intentionally built a team with all Russian speakers to eliminate communication barriers.
+We have intentionally built a team with all Russian speakers to eliminate communication barriers.
 
-But most of the team has daily experience in writing and verbal communications in English. All our documents are in English, code comments, apparently, too.
+But most of the team has daily experience in writing and verbal communications in English. All our documents are in English, code comments are, apparently, too.
 
 
 # About processes
@@ -82,16 +82,16 @@ But most of the team has daily experience in writing and verbal communications i
 
 We have a full development cycle, only business requirements and acceptance criteria are required from you.
 
-1. You have some business requirement
-2. Our BA will start gathering requirements and assemble everything in the document
-3. A designer will prepare and provide all visual artifacts
-4. You will approve document/media if you want
-5. Backend team will develop and fill all API endpoints into the document
-6. Frontend team will add required components and connect it to the backend
-7. QA will test and prepare release version
-8. Changes will be deployed to test and then production environments
+1. You have some business requirements
+2. Our BA will start gathering requirements and assemble everything into a specification
+3. The designer will prepare and provide all visual artifacts
+4. You will approve the specification/media if you want
+5. The backend team will develop and fill all the API endpoints in the specification
+6. The frontend team will add the required components and connect them to the backend
+7. The QA will test and prepare a release version
+8. Changes will be deployed to the test and then production environments
 
-After that we run retrospective and make changes in processes if required.
+After that, we run the retrospective and make changes in the processes if required.
 
 When we decide to change something, we can implement changes. Read more about it below.
 
@@ -99,18 +99,18 @@ When we decide to change something, we can implement changes. Read more about it
 
 We love to automate things. Especially management and communications routine!
 
-We're quite good at tracking time. Most of our team worked via upwork and we have a custom project to collect everything together via jira/gitlab/upwork APIs. So you can get details for each task, each member time report or daily team report. Everything you might need to understand current state.
+We're quite good at tracking time. Most of our team have worked via upwork and we have a custom project to collect everything together via jira/gitlab/upwork APIs. So you can get details for each task, each member time report or a daily team report. Everything you might need to understand the current state of the things.
 
 Also we have a review cycle that is fully automated and bot-driven, so there is no lag in code review.
 
 
 # Our project setup
 
-We used to develop and support 7 applications for IOS and Android, admin site and backend with **weekly** sprints and releases. We're able to do this only because of processes and testing everything.
+We used to develop and support 7 applications for IOS and Android, admin site and backend with **weekly** sprints and releases. We're able to do this only because of our processes and testing everything.
 
 ## Mobile apps / React Native
 
-Links may die in future but still alive:
+Links may die in future but are still alive:
 
 [Appstore](https://itunes.apple.com/us/app/calvert-woodley/id1325616215)
 
@@ -119,7 +119,7 @@ Links may die in future but still alive:
 
 Think about it: 7 apps * 2 platforms * 2 active OS versions = 28 fully working applications were tested and delivered every week.
 
-React Native (RN) isn't particularly mature or stable library and we couldn't afford hordes of QA specialists. So we did all kind of automated tests (unit, integration, e2e) to make sure that everything is ok.
+React Native (RN) isn't a particularly mature or stable library and we couldn't afford hordes of QA specialists. So we did all kinds of automated tests (unit, integration, e2e) to make sure that everything is ok.
 
 All this was built on top of amazing GitlabCI with on-commit and scheduled builds. And uploading to Appstore was just a CI job.
 
@@ -133,58 +133,59 @@ Unit, integration and e2e (selenium) tests.
 
 ### Notable on frontend
 
-[tipsi-stripe](https://github.com/tipsi/tipsi-stripe) We always were sure that good React Native project should support both mobile platforms at the same time. We always were sure that payment processing library should be well-tested. There was no such project to fulfill our requirements with Stripe + RN. We've made it. 
+[tipsi-stripe](https://github.com/tipsi/tipsi-stripe) We were always sure that a good React Native project should support both mobile platforms at the same time. We were always sure that a payment processing library should be well-tested. There was no such project to fulfill our requirements with Stripe + RN. We've made it. 
+
 Tip: braintree has no such library right now so you can create it and earn fame.
 
 [Eslint plugin](https://github.com/tipsi/eslint-plugin-tipsi) - don't waste time on recurrent reviewer comments, use linter.
 
 [React/RN router](https://github.com/tipsi/tipsi-router) - share your code not only between mobile platforms but web as well.
 
-[Flavors](https://github.com/tipsi/babel-plugin-tipsi-flavors) - don't limit yourself only to `.ios.js`/`.android.js` suffixes, create your own flavors. We needed a lot of different customizations for different clients and to have simple and clean codebase. Flavors give us ability to reuse our code in simple and powerful ways, easily enable and disable features during build without any code changes.
+[Flavors](https://github.com/tipsi/babel-plugin-tipsi-flavors) - don't limit yourself only to `.ios.js`/`.android.js` suffixes, create your own flavors. We needed a lot of different customizations for different clients and a simple and clean codebase. Flavors give us the ability to reuse our code in simple and powerful ways, to easily enable and disable features during the build phase without any code changes.
 
-[TravisCI for mobile platforms](https://github.com/tipsi/tipsi-travis-scripts) - let your team write build scripts in familiar language. Make you life easier with free TravisCI e2e tests on mobile platforms.
+[TravisCI for mobile platforms](https://github.com/tipsi/tipsi-travis-scripts) - let your team write build scripts in a familiar language. Make you life easier with free TravisCI e2e tests on mobile platforms.
 
-[Appium helper](https://github.com/tipsi/tipsi-appium-helper) - when you need to customize your mobile e2e scenarios in some easy and reproducible way.
+[Appium helper](https://github.com/tipsi/tipsi-appium-helper) - when you need to customize your mobile e2e scenarios in an easy and reproducible way.
 
 
 ## Backend
 
-We work in kanban here. Because kanban is excellent for tiny teams (2 ppl in our case). It is easy to manage priorities, no hustle about sprint's ends/planning, you always know where you have a bottleneck.
+We work in Kanban here because Kanban is excellent for tiny teams (2 ppl in our case). It is easy to manage priorities, no hustle about sprint's ends/planning, you always know where you have a bottleneck.
 
-We deployed a project on AWS in docker containers with docker-compose.
+We deployed projects on AWS in docker containers with docker-compose.
 
 We are in the absolute love-love relationship with pytest and did all testing for the backend with it.
 
-We had all kind of tests here: unit, integration, e2e, and, obviously, CI for everything. And because of testing, we had several fearless migrations (without breaking production):
+We have had all kinds of tests here: unit, integration, e2e, and, obviously, CI for everything. And because of testing, we had several fearless migrations (without breaking production):
 
 * bare metal => docker
 * mysql => postgresql
 * python2 => python3
-* and we always had the most recent django and python versions!
+* and we have always had the most recent django and python versions!
 
-All services were either django/drf or asyncio/sanic.
+All our services were either django/drf or asyncio/sanic.
 
 ### Notable on backend
 We have [homegrown solution](https://github.com/Nepherhotep/django-rest-framework-dyn-serializer) to make lazy API's with django-rest-framework. We're aware of GraphQL and want to move in this direction.
 
 
-[Fan](https://github.com/tipsi/fan) - because we want microservices with swappable protocols, full tracing support, full versioning support and no solutions can give us it now. Additionaly you can easily connect any existing API without modification by having near an additional service and yaml config.
+[Fan](https://github.com/tipsi/fan) - because we want microservices with swappable protocols, full tracing support, full versioning support and there are no solutions that can give it to us now. Additionaly, you can easily connect to any existing API without modification by having near an additional service and yaml config.
 
 
-[pytest](https://github.com/tipsi/pytest-tipsi-testing) and [pytest + django](https://github.com/tipsi/pytest-tipsi-django) - if you want to have full control on what fixtures you have during tests or you want to have transactions support for django not only in function scope.
+[pytest](https://github.com/tipsi/pytest-tipsi-testing) and [pytest + django](https://github.com/tipsi/pytest-tipsi-django) - if you want to have full control on what fixtures you have during the tests or you want to have transaction support for django not only in function scope.
 
 [aiozk](https://github.com/tipsi/aiozk) - there were no asyncio+zookeeper bindings, we've changed this.
 
-[tipsi_tools](https://github.com/tipsi/tipsi_tools) - our toolbelt. Check it; You might always want to have `tipsi_tools.python.rel_path` or `tipsi_tools.drf.use_form
+[tipsi_tools](https://github.com/tipsi/tipsi_tools) - our toolbelt. Check it; You might have always wanted to have `tipsi_tools.python.rel_path` or `tipsi_tools.drf.use_form
 ` functions!
 
 
 
 ## Infrastructure
 
-Everything was deployed on AWS. Nothing special here: ec2, rds (postgresql), s3. Host setup with ansible.
+Everything was deployed on AWS. Nothing special here: ec2, rds (postgresql), s3. Host setup with Ansible.
 
-Some compute intensive things were hosted on hetzner: ELK stack, OSX VM's, Android emulators. We were able to keep our bills sane due to this segregation.
+Some compute intensive things were hosted on Hetzner: ELK stack, OSX VM's, Android emulators. We were able to keep our bills sane due to this segregation.
 
 We know how to run e2e tests on OSX in KVM. It gives us the ability to run tests for Android and IOS on the same machine.
 
