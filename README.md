@@ -128,6 +128,7 @@ All this was built on top of amazing GitlabCI with on-commit and scheduled build
 
 Everything that you might expect from modern React stack: React, react-router, react-redux, normalizr and etc.
 
+
 Unit, integration and e2e (selenium) tests.
 
 ### Notable on frontend
@@ -135,9 +136,9 @@ Unit, integration and e2e (selenium) tests.
 [tipsi-stripe](https://github.com/ex-tipsi/hire-us) We always were sure that good React Native project should support both mobile platforms at the same time. We always were sure that payment processing library should be well-tested. There was no such project to fulfill our requirements with Stripe + RN. We've made it. 
 Tip: braintree has no such library right now so you can create it and earn fame.
 
-[Eslint plugin](https://github.com/tipsi/eslint-plugin-tipsi) - don't waste time on recurrent reviewer comments, use linter
+[Eslint plugin](https://github.com/tipsi/eslint-plugin-tipsi) - don't waste time on recurrent reviewer comments, use linter.
 
-[React/RN router](https://github.com/tipsi/tipsi-router) - share your code not only between mobile platforms but web aswell
+[React/RN router](https://github.com/tipsi/tipsi-router) - share your code not only between mobile platforms but web as well.
 
 [Flavors](https://github.com/tipsi/babel-plugin-tipsi-flavors) - don't limit yourself only to `.ios.js`/`.android.js` suffixes, create your own flavors. This is how we're able to maintain a lot of custom builds.
 
