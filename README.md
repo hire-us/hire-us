@@ -2,7 +2,7 @@
 
 Our project is going to be closed but we are well-established team with great processes and we're ready to work on all together on new projects.
 
-You might be interested if you're looking for a team to build the fully fledged product: web, mobile applications for all platforms, and backend.
+You might be interested if you're looking for a team to build a fully fledged product: web, mobile applications for all platforms, and backend.
 
 
 Who we are:
@@ -53,19 +53,19 @@ Office - is person ready to work from office. If no - remote only
 Relocate - is person ready to relocate.
 
 
-| Got a Job | Name | Linkedin | Github | Possible Roles | English level | Office / Relocate | Home Location |
-| - | - | - | - | - | - | - | - |
-| ❌ | ![Igor Kozlovsky](img/Igor.png)<br>Igor Kozlovsky | [Go to profile](https://www.linkedin.com/in/igor-kozlovsky-9017a1b3/) | [Github](https://github.com/igor-lemon) | React<br>React-Native<br>Team Lead<br>Tech Lead | Fluent | ✅/❌ | Minsk, Belarus |
-| ❌ | ![Anton Kuznetsov](img/Anton.png)<br>Anton Kuznetsov | [Go to profile](https://www.linkedin.com/in/isnifer/) | [Github](https://github.com/isnifer) | React<br>React-Native<br>Team Lead<br>Tech Lead  | Fluent | ✅/✅ | Moscow, Russia |
-| ❌ | ![Denis Sedura](img/Denis_S.png)<br>Denis Sedura | [Go to profile](https://www.linkedin.com/in/d3n5a/) | [Github](https://github.com/densa) | iOS<br>React-Native<br>React | Fluent | ✅/❌ | Dnepr, Ukraine |
-| ❌ | ![Sergey Zhukov](img/Sergey.png)<br>Sergey Zhukov | [Go to profile](https://www.linkedin.com/in/sergeyzhukov89/) | [Github](https://github.com/sergeyzhukov) | iOS<br>React-Native<br>React | Fluent | ❌/❌ | Samara, Russia |
-| ❌ | ![Dmitry Lesnoy](img/Dmitry.png)<br>Dmitry Lesnoy | [Go to profile](https://www.linkedin.com/in/dmitry-lesnoy-699bbabb/) | [Github](https://github.com/dimok87) | React<br>React-Native | Fluent | ❌/❌ | Minsk, Belarus |
-| ❌ | ![Nick Goryachev](img/Nickolay.png)<br>Nick Goryachev | [Go to profile](https://www.linkedin.com/in/nick-goriachev-92b56964/) | [Github](https://github.com/ngoryachev) | Android<br>React<br>React-Native | Fluent | ✅/✅ | St. Petersburg, Russia |
-| ❌ | ![Ekaterina Kirvel](img/Kate.png)<br>Ekaterina Kirvel | [Linkedin](https://www.linkedin.com/in/ekaterina-kirvel-380756a1/) | N/A |Business Analyst<br>BA Team Lead | Fluent | ❌/❌ | Minsk, Belarus |
-| ❌ | ![Uladzislau Zankevich](img/Uladzislau.png)<br>Uladzislau Zankevich | [Go to profile](https://www.linkedin.com/in/uladzislau-zankevich-142066157/) | N/A | QA | Beginner English | ✅/✅ | Zhitkovichi, Belarus |
-| ❌ | ![Denis Zakalinsky](img/Denis_Z.png)<br>Denis Zakalinsky | [Go to profile](https://www.linkedin.com/in/deniszakalinsky/) | N/A | Design<br>UI/UX<br>UX<br>PM/BA | Fluent | ✅/✅ | Minsk, Belarus |
-| ❌ | ![Artsiom Kaval](img/Artsiom.png)<br>Artsiom Kaval | [Go to profile](https://www.linkedin.com/in/artyomkoval/) | [Github](https://github.com/lezeroq) | Backend<br>Python<br>Team Lead<br>Tech Lead | Fluent | ✅/✅ | Minsk, Belarus |
-| ❌ | ![Kirill Pinchuk](img/Kirill.png)<br>Kirill Pinchuk | [Go to profile](https://www.linkedin.com/in/cybergrind/) | [Github](https://github.com/cybergrind/) | Backend<br>Python<br>React<br>Team Lead<br>Tech Lead<br>Solutions Architect | Fluent | ✅/✅ | Minsk, Belarus |
+| Available | Name | Github | Possible Roles | English level | Office / Relocate | Home Location |
+| - | - | - | - | - | - | - |
+| ✅ | ![Igor Kozlovsky](img/Igor.png)<br>[Igor Kozlovsky](https://www.linkedin.com/in/igor-kozlovsky-9017a1b3/) | [Github](https://github.com/igor-lemon) | React<br>React-Native<br>Team Lead<br>Tech Lead | Fluent | ✅/❌ | Minsk, Belarus |
+| ✅ | ![Anton Kuznetsov](img/Anton.png)<br> [Anton Kuznetsov](https://www.linkedin.com/in/isnifer/) | [Github](https://github.com/isnifer) | React<br>React-Native<br>Team Lead<br>Tech Lead  | Fluent | ✅/✅ | Moscow, Russia |
+| ✅ | ![Denis Sedura](img/Denis_S.png)<br> [Denis Sedura](https://www.linkedin.com/in/d3n5a/) | [Github](https://github.com/densa) | iOS<br>React-Native<br>React | Fluent | ✅/❌ | Dnepr, Ukraine |
+| ✅ | ![Sergey Zhukov](img/Sergey.png)<br> [Sergey Zhukov](https://www.linkedin.com/in/sergeyzhukov89/) | [Github](https://github.com/sergeyzhukov) | iOS<br>React-Native<br>React | Fluent | ❌/❌ | Samara, Russia |
+| ✅ | ![Dmitry Lesnoy](img/Dmitry.png)<br> [Dmitry Lesnoy](https://www.linkedin.com/in/dmitry-lesnoy-699bbabb/) | [Github](https://github.com/dimok87) | React<br>React-Native | Fluent | ❌/❌ | Minsk, Belarus |
+| ✅ | ![Nick Goryachev](img/Nickolay.png)<br> [Nick Goryachev](https://www.linkedin.com/in/nick-goriachev-92b56964/) | [Github](https://github.com/ngoryachev) | Android<br>React<br>React-Native | Fluent | ✅/✅ | St. Petersburg, Russia |
+| ✅ | ![Ekaterina Kirvel](img/Kate.png)<br>[Ekaterina Kirvel](https://www.linkedin.com/in/ekaterina-kirvel-380756a1/) | N/A |Business Analyst<br>BA Team Lead | Fluent | ❌/❌ | Minsk, Belarus |
+| ✅ | ![Uladzislau Zankevich](img/Uladzislau.png)<br> [Uladzislau Zankevich](https://www.linkedin.com/in/uladzislau-zankevich-142066157/) | N/A | QA | Beginner English | ✅/✅ | Zhitkovichi, Belarus |
+| ✅ | ![Denis Zakalinsky](img/Denis_Z.png)<br> [Denis Zakalinsky](https://www.linkedin.com/in/deniszakalinsky/) | N/A | Design<br>UI/UX<br>UX<br>PM/BA | Fluent | ✅/✅ | Minsk, Belarus |
+| ✅ | ![Artsiom Kaval](img/Artsiom.png)<br> [Artsiom Kaval](https://www.linkedin.com/in/artyomkoval/) | [Github](https://github.com/lezeroq) | Backend<br>Python<br>Team Lead<br>Tech Lead | Fluent | ✅/✅ | Minsk, Belarus |
+| ✅ | ![Kirill Pinchuk](img/Kirill.png)<br> [Kirill Pinchuk](https://www.linkedin.com/in/cybergrind/) | [Github](https://github.com/cybergrind/) | Backend<br>Python<br>React<br>Team Lead<br>Tech Lead<br>Solutions Architect | Fluent | ✅/✅ | Minsk, Belarus |
 
 You may question why we have so many `Team Leads` here, that's because we all know how a good team should be built and what is important to organize work.
 
@@ -117,7 +117,7 @@ Links may die in future but still alive:
 [Google Play](https://play.google.com/store/apps/details?id=com.tipsi.cw)
 
 
-Just think about it: 7 apps * 2 platforms * 2 active OS versions = at least 14 fully working applications were required to deliver every week and 28 to test.
+Think about it: 7 apps * 2 platforms * 2 active OS versions = 28 fully working applications were tested and delivered every week.
 
 React Native (RN) isn't particularly mature or stable library and we couldn't afford hordes of QA specialists. So we did all kind of tests (unit, integration, e2e) to make sure that everything is ok.
 
