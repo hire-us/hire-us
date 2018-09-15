@@ -175,7 +175,7 @@ We have [homegrown solution](https://github.com/Nepherhotep/django-rest-framewor
 
 [aiozk](https://github.com/tipsi/aiozk) - there were no asyncio+zookeeper bindings, we've changed this.
 
-[tipsi_tools](https://github.com/tipsi/tipsi_tools) - ours toolbelt. Check it; You might always want to have `tipsi_tools.python.rel_path` or `tipsi_tools.drf.use_form
+[tipsi_tools](https://github.com/tipsi/tipsi_tools) - our toolbelt. Check it; You might always want to have `tipsi_tools.python.rel_path` or `tipsi_tools.drf.use_form
 ` functions!
 
 
