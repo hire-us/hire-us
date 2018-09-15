@@ -40,19 +40,19 @@ Office - is person ready to work from office. If no - remote only
 Relocate - is person ready to relocate.
 
 
-| Name | Linkedin | Github | Possible Roles | English level | Office / Relocate | Home Location |
-| - | - | - | - | - | - | - |
-| ![Igor Kozlovsky](img/Igor.png)<br>Igor Kozlovsky | [Go to profile](https://www.linkedin.com/in/igor-kozlovsky-9017a1b3/) | [Github](https://github.com/igor-lemon) | React<br>React-Native<br>Team Lead<br>Tech Lead | Fluent | ✅/❌ | Minsk, Belarus |
-| ![Anton Kuznetsov](img/Anton.png)<br>Anton Kuznetsov | [Go to profile](https://www.linkedin.com/in/isnifer/) | [Github](https://github.com/isnifer) | React<br>React-Native<br>Team Lead<br>Tech Lead  | Fluent | ✅/✅ | Moscow, Russia |
-| ![Denis Sedura](img/Denis_S.png)<br>Denis Sedura | [Go to profile](https://www.linkedin.com/in/d3n5a/) | [Github](https://github.com/densa) | iOS<br>React-Native<br>React | Fluent | ✅/❌ | Dnepr, Ukraine |
-| ![Sergey Zhukov](img/Sergey.png)<br>Sergey Zhukov | [Go to profile](https://www.linkedin.com/in/sergeyzhukov89/) | [Github](https://github.com/sergeyzhukov) | iOS<br>React-Native<br>React | Fluent | ❌/❌ | Samara, Russia |
-| ![Dmitry Lesnoy](img/Dmitry.png)<br>Dmitry Lesnoy | [Go to profile](https://www.linkedin.com/in/dmitry-lesnoy-699bbabb/) | [Github](https://github.com/dimok87) | React<br>React-Native | Fluent | ❌/❌ | Minsk, Belarus |
-| ![Nick Goryachev](img/Nickolay.png)<br>Nick Goryachev | [Go to profile](https://www.linkedin.com/in/nick-goriachev-92b56964/) | [Github](https://github.com/ngoryachev) | Android<br>React<br>React-Native | Fluent | ✅/✅ | St. Petersburg, Russia |
-| ![Ekaterina Kirvel](img/Kate.png)<br>Ekaterina Kirvel | [Linkedin](https://www.linkedin.com/in/ekaterina-kirvel-380756a1/) | N/A |Business Analyst<br>BA Team Lead | Fluent | ❌/❌ | Minsk, Belarus |
-| ![Uladzislau Zankevich](img/Uladzislau.png)<br>Uladzislau Zankevich | [Go to profile](https://www.linkedin.com/in/uladzislau-zankevich-142066157/) | N/A | QA | Beginner English | ✅/✅ | Zhitkovichi, Belarus |
-| ![Denis Zakalinsky](img/Denis_Z.png)<br>Denis Zakalinsky | [Go to profile](https://www.linkedin.com/in/deniszakalinsky/) | N/A | Design<br>UI/UX<br>UX<br>PM/BA | Fluent | ✅/✅ | Minsk, Belarus |
-| ![Artsiom Kaval](img/Artsiom.png)<br>Artsiom Kaval | [Go to profile](https://www.linkedin.com/in/artyomkoval/) | [Github](https://github.com/lezeroq) | Backend<br>Python<br>Team Lead<br>Tech Lead | Fluent | ✅/✅ | Minsk, Belarus |
-| ![Kirill Pinchuk](img/Kirill.png)<br>Kirill Pinchuk | [Go to profile](https://www.linkedin.com/in/cybergrind/) | [Github](https://github.com/cybergrind/) | Backend<br>Python<br>React<br>Team Lead<br>Tech Lead<br>Solutions Architect | Fluent | ✅/✅ | Minsk, Belarus |
+| Got a Job | Name | Linkedin | Github | Possible Roles | English level | Office / Relocate | Home Location |
+| - | - | - | - | - | - | - | - |
+| ❌ | ![Igor Kozlovsky](img/Igor.png)<br>Igor Kozlovsky | [Go to profile](https://www.linkedin.com/in/igor-kozlovsky-9017a1b3/) | [Github](https://github.com/igor-lemon) | React<br>React-Native<br>Team Lead<br>Tech Lead | Fluent | ✅/❌ | Minsk, Belarus |
+| ❌ | ![Anton Kuznetsov](img/Anton.png)<br>Anton Kuznetsov | [Go to profile](https://www.linkedin.com/in/isnifer/) | [Github](https://github.com/isnifer) | React<br>React-Native<br>Team Lead<br>Tech Lead  | Fluent | ✅/✅ | Moscow, Russia |
+| ❌ | ![Denis Sedura](img/Denis_S.png)<br>Denis Sedura | [Go to profile](https://www.linkedin.com/in/d3n5a/) | [Github](https://github.com/densa) | iOS<br>React-Native<br>React | Fluent | ✅/❌ | Dnepr, Ukraine |
+| ❌ | ![Sergey Zhukov](img/Sergey.png)<br>Sergey Zhukov | [Go to profile](https://www.linkedin.com/in/sergeyzhukov89/) | [Github](https://github.com/sergeyzhukov) | iOS<br>React-Native<br>React | Fluent | ❌/❌ | Samara, Russia |
+| ❌ | ![Dmitry Lesnoy](img/Dmitry.png)<br>Dmitry Lesnoy | [Go to profile](https://www.linkedin.com/in/dmitry-lesnoy-699bbabb/) | [Github](https://github.com/dimok87) | React<br>React-Native | Fluent | ❌/❌ | Minsk, Belarus |
+| ❌ | ![Nick Goryachev](img/Nickolay.png)<br>Nick Goryachev | [Go to profile](https://www.linkedin.com/in/nick-goriachev-92b56964/) | [Github](https://github.com/ngoryachev) | Android<br>React<br>React-Native | Fluent | ✅/✅ | St. Petersburg, Russia |
+| ❌ | ![Ekaterina Kirvel](img/Kate.png)<br>Ekaterina Kirvel | [Linkedin](https://www.linkedin.com/in/ekaterina-kirvel-380756a1/) | N/A |Business Analyst<br>BA Team Lead | Fluent | ❌/❌ | Minsk, Belarus |
+| ❌ | ![Uladzislau Zankevich](img/Uladzislau.png)<br>Uladzislau Zankevich | [Go to profile](https://www.linkedin.com/in/uladzislau-zankevich-142066157/) | N/A | QA | Beginner English | ✅/✅ | Zhitkovichi, Belarus |
+| ❌ | ![Denis Zakalinsky](img/Denis_Z.png)<br>Denis Zakalinsky | [Go to profile](https://www.linkedin.com/in/deniszakalinsky/) | N/A | Design<br>UI/UX<br>UX<br>PM/BA | Fluent | ✅/✅ | Minsk, Belarus |
+| ❌ | ![Artsiom Kaval](img/Artsiom.png)<br>Artsiom Kaval | [Go to profile](https://www.linkedin.com/in/artyomkoval/) | [Github](https://github.com/lezeroq) | Backend<br>Python<br>Team Lead<br>Tech Lead | Fluent | ✅/✅ | Minsk, Belarus |
+| ❌ | ![Kirill Pinchuk](img/Kirill.png)<br>Kirill Pinchuk | [Go to profile](https://www.linkedin.com/in/cybergrind/) | [Github](https://github.com/cybergrind/) | Backend<br>Python<br>React<br>Team Lead<br>Tech Lead<br>Solutions Architect | Fluent | ✅/✅ | Minsk, Belarus |
 
 You may question why we have so many `Team Leads` here, that's because we all know how a good team should be built and what is important to organize work.
 
