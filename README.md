@@ -57,7 +57,7 @@ Relocate - if the person is ready to relocate.
 | - | - | - | - | - | - | - |
 | ✅ | ![Igor Kozlovsky](img/Igor.png)<br>[Igor Kozlovsky](https://www.linkedin.com/in/igor-kozlovsky-9017a1b3/) | [Github](https://github.com/igor-lemon) | React<br>React-Native<br>Team Lead<br>Tech Lead | Fluent | ✅/❌ | Minsk, Belarus |
 | ✅ | ![Anton Kuznetsov](img/Anton.png)<br> [Anton Kuznetsov](https://www.linkedin.com/in/isnifer/) | [Github](https://github.com/isnifer) | React<br>React-Native<br>Team Lead<br>Tech Lead  | Fluent | ✅/✅ | Moscow, Russia |
-| ✅ | ![Denis Sedura](img/Denis_S.png)<br> [Denis Sedura](https://www.linkedin.com/in/d3n5a/) | [Github](https://github.com/densa) | iOS<br>React-Native<br>React | Fluent | ✅/❌ | Dnepr, Ukraine |
+| ✅ | ![Denis Sedura](img/Denis_S.png)<br> [Denis Sedura](https://www.linkedin.com/in/d3n5a/) | [Github](https://github.com/densa) | iOS<br>React-Native<br>React | Fluent | ✅/❌ | Dnipro, Ukraine |
 | ✅ | ![Sergey Zhukov](img/Sergey.png)<br> [Sergey Zhukov](https://www.linkedin.com/in/sergeyzhukov89/) | [Github](https://github.com/sergeyzhukov) | iOS<br>React-Native<br>React | Fluent | ❌/❌ | Samara, Russia |
 | ✅ | ![Dmitry Lesnoy](img/Dmitry.png)<br> [Dmitry Lesnoy](https://www.linkedin.com/in/dmitry-lesnoy-699bbabb/) | [Github](https://github.com/dimok87) | React<br>React-Native | Fluent | ❌/❌ | Minsk, Belarus |
 | ✅ | ![Nick Goryachev](img/Nickolay.png)<br> [Nick Goryachev](https://www.linkedin.com/in/nick-goriachev-92b56964/) | [Github](https://github.com/ngoryachev) | Android<br>React<br>React-Native | Fluent | ✅/✅ | St. Petersburg, Russia |
@@ -133,7 +133,7 @@ Unit, integration and e2e (selenium) tests.
 
 ### Notable on frontend
 
-[tipsi-stripe](https://github.com/tipsi/tipsi-stripe) We were always sure that a good React Native project should support both mobile platforms at the same time. We were always sure that a payment processing library should be well-tested. There was no such project to fulfill our requirements with Stripe + RN. We've made it. 
+[tipsi-stripe](https://github.com/tipsi/tipsi-stripe) We were always sure that a good React Native project should support both mobile platforms at the same time. We were always sure that a payment processing library should be well-tested. There was no such project to fulfill our requirements with Stripe + RN. We've made it.
 
 Tip: braintree has no such library right now so you can create it and earn fame.
 
