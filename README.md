@@ -133,7 +133,7 @@ Unit, integration and e2e (selenium) tests.
 
 ### Notable on frontend
 
-[tipsi-stripe](https://github.com/ex-tipsi/hire-us) We always were sure that good React Native project should support both mobile platforms at the same time. We always were sure that payment processing library should be well-tested. There was no such project to fulfill our requirements with Stripe + RN. We've made it. 
+[tipsi-stripe](https://github.com/tipsi/tipsi-stripe) We always were sure that good React Native project should support both mobile platforms at the same time. We always were sure that payment processing library should be well-tested. There was no such project to fulfill our requirements with Stripe + RN. We've made it. 
 Tip: braintree has no such library right now so you can create it and earn fame.
 
 [Eslint plugin](https://github.com/tipsi/eslint-plugin-tipsi) - don't waste time on recurrent reviewer comments, use linter.
