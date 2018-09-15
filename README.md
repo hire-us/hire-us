@@ -155,14 +155,14 @@ We deployed a project on AWS in docker containers with docker-compose.
 
 We are in the absolute love-love relationship with pytest and did all testing for the backend with it.
 
-We had all kind of tests here, unit, integration, e2e, and, obviously, CI for everything. And because of testing, we had several fearless migrations (without breaking production):
+We had all kind of tests here: unit, integration, e2e, and, obviously, CI for everything. And because of testing, we had several fearless migrations (without breaking production):
 
 * bare metal => docker
 * mysql => postgresql
 * python2 => python3
-* and we always had most recent django and python versions!
+* and we always had the most recent django and python versions!
 
-All services were either: django/drf or asyncio/sanic.
+All services were either django/drf or asyncio/sanic.
 
 ### Notable on backend
 We have [homegrown solution](https://github.com/Nepherhotep/django-rest-framework-dyn-serializer) to make lazy API's with django-rest-framework. We're aware of GraphQL and want to move in this direction.
@@ -182,9 +182,9 @@ We have [homegrown solution](https://github.com/Nepherhotep/django-rest-framewor
 
 ## Infrastructure
 
-Everything was deployed to AWS. Nothing special here: ec2, rds (postgresql), s3. Host setup with ansible.
+Everything was deployed on AWS. Nothing special here: ec2, rds (postgresql), s3. Host setup with ansible.
 
-Some compute intensive things was hosted on hetzner: ELK stack, OSX VM's, Android emulators. We were able to keep our bills sane due to this segregation.
+Some compute intensive things were hosted on hetzner: ELK stack, OSX VM's, Android emulators. We were able to keep our bills sane due to this segregation.
 
 We know how to run e2e tests on OSX in KVM. It gives us the ability to run tests for Android and IOS on the same machine.
 
