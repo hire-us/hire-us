@@ -55,7 +55,7 @@ Relocate - if the person is ready to relocate.
 
 | Available | Name | Github | Possible Roles | English level | Office / Relocate | Home Location |
 | - | - | - | - | - | - | - |
-| ✅ | ![Igor Kozlovsky](img/Igor.png)<br>[Igor Kozlovsky](https://www.linkedin.com/in/igor-kozlovsky-9017a1b3/) | [Github](https://github.com/igor-lemon) | React<br>React-Native<br>Team Lead<br>Tech Lead | Fluent | ✅/❌ | Minsk, Belarus |
+| ✅ | ![Igor Kozlovsky](img/Igor.png)<br>[Igor Kozlovsky](https://www.linkedin.com/in/igor-kozlovsky-9017a1b3/) | [Github](https://github.com/igor-lemon) | React<br>React-Native<br>Team Lead<br>Tech Lead | Fluent | ✅/✅ | Minsk, Belarus |
 | ✅ | ![Anton Kuznetsov](img/Anton.png)<br> [Anton Kuznetsov](https://www.linkedin.com/in/isnifer/) | [Github](https://github.com/isnifer) | React<br>React-Native<br>Team Lead<br>Tech Lead  | Fluent | ✅/✅ | Moscow, Russia |
 | ✅ | ![Denis Sedura](img/Denis_S.png)<br> [Denis Sedura](https://www.linkedin.com/in/d3n5a/) | [Github](https://github.com/densa) | iOS<br>React-Native<br>React | Fluent | ✅/❌ | Dnipro, Ukraine |
 | ✅ | ![Sergey Zhukov](img/Sergey.png)<br> [Sergey Zhukov](https://www.linkedin.com/in/sergeyzhukov89/) | [Github](https://github.com/sergeyzhukov) | iOS<br>React-Native<br>React | Fluent | ❌/❌ | Samara, Russia |
