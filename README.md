@@ -1,8 +1,8 @@
-# We're ready for new opportunities.
+# Team is ready for new opportunities.
 
 We're an experienced and process-driven development team currently accepting applications for new projects.
 
-We're an excellent fit for businesses aimed at building fully fledged products including: web, multi-platform mobile applications, and back-end coding.
+Our team is an excellent fit for businesses aimed at building fully fledged products including: web, multi-platform mobile applications, and back-end coding.
 
 
 Who we are:
