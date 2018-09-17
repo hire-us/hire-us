@@ -14,7 +14,7 @@ Who we are:
 * We know how to write e2e (ent-to-end) tests that will run on all platforms (web, ios, android)
 * We know how to do backend things with python and have 10+ years experience in it
 * We do monitoring. We have distributed tracing for microservices
-* You can see our open-sourced code here: https://github.com/tipsi
+* You can see our open-sourced code [here](https://github.com/tipsi)
 
 
 What are your benefits:
