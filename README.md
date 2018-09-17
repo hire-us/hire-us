@@ -1,8 +1,8 @@
 # We're ready for new opportunities.
 
-Our project is going to be closed but we are a well-established team with great processes and we're ready to work on all together on new projects.
+We're an experienced and process-driven development team currently accepting applications for new projects.
 
-You might be interested if you're looking for a team to build a fully fledged product: web, mobile applications for all platforms, and backend.
+We're an excellent fit for businesses aimed at building fully fledged products including: web, multi-platform mobile applications, and back-end coding.
 
 
 Who we are:
