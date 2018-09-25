@@ -1,3 +1,11 @@
+# 25 September Update
+
+Thanks for your attention. Our time for looking new job as a team is passed.
+
+We didn't manage to reach our goal and going to split our ways from this moment. People are still available, and we're maintaining our connections, so you still can hire more than one person.
+
+Repo will remain for demo purposes.
+
 # Team is ready for new opportunities.
 
 We're an experienced and process-driven development team currently accepting applications for new projects.
