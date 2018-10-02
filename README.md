@@ -69,7 +69,6 @@ Relocate - if the person is ready to relocate.
 | ✅ | ![Sergey Zhukov](img/Sergey.png)<br> [Sergey Zhukov](https://www.linkedin.com/in/sergeyzhukov89/) | [Github](https://github.com/sergeyzhukov) | iOS<br>React-Native<br>React | Fluent | ❌/❌ | Samara, Russia |
 | ✅ | ![Dmitry Lesnoy](img/Dmitry.png)<br> [Dmitry Lesnoy](https://www.linkedin.com/in/dmitry-lesnoy-699bbabb/) | [Github](https://github.com/dimok87) | React<br>React-Native | Fluent | ❌/❌ | Minsk, Belarus |
 | ✅ | ![Nick Goryachev](img/Nickolay.png)<br> [Nick Goryachev](https://www.linkedin.com/in/nick-goriachev-92b56964/) | [Github](https://github.com/ngoryachev) | Android<br>React<br>React-Native | Fluent | ✅/✅ | St. Petersburg, Russia |
-| ✅ | ![Ekaterina Kirvel](img/Kate.png)<br>[Ekaterina Kirvel](https://www.linkedin.com/in/ekaterina-kirvel-380756a1/) | N/A |Business Analyst<br>BA Team Lead | Fluent | ❌/❌ | Minsk, Belarus |
 | ✅ | ![Uladzislau Zankevich](img/Uladzislau.png)<br> [Uladzislau Zankevich](https://www.linkedin.com/in/uladzislau-zankevich-142066157/) | N/A | QA | Beginner English | ✅/✅ | Zhitkovichi, Belarus |
 | ✅ | ![Denis Zakalinsky](img/Denis_Z.png)<br> [Denis Zakalinsky](https://www.linkedin.com/in/deniszakalinsky/) | N/A | Design<br>UI/UX<br>UX<br>PM/BA | Fluent | ✅/✅ | Minsk, Belarus |
 | ✅ | ![Artsiom Kaval](img/Artsiom.png)<br> [Artsiom Kaval](https://www.linkedin.com/in/artyomkoval/) | [Github](https://github.com/lezeroq) | Backend<br>Python<br>Team Lead<br>Tech Lead | Fluent | ✅/✅ | Minsk, Belarus |
